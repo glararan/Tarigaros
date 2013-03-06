@@ -1,0 +1,4 @@
+/servery/tarigaros/bin/authserver
+/servery/tarigaros/etc/authserver.conf.dist
+/servery/tarigaros/bin/worldserver
+/servery/tarigaros/etc/worldserver.conf.dist
